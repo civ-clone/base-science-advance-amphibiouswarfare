@@ -13,7 +13,8 @@
   "files": [
     "AmphibiousWarfare.js",
     "AmphibiousWarfare.d.ts",
-    "AmphibiousWarfare.js.map"
+    "AmphibiousWarfare.js.map",
+    "AmphibiousWarfare.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
